@@ -23,6 +23,17 @@
   "homepage": "https://github.com/manov17/date-picker#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-preset-react": "^6.24.1"
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "eslint": "^4.18.2",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.7.0",
+    "eslint-watch": "^3.1.3"
+  },
+  "dependencies": {
+    "lint": "^1.1.2"
   }
 }
